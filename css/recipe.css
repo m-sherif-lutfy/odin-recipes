@@ -1,0 +1,21 @@
+h1,
+h2,
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+p, 
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkblue;
+}
+
+h1,
+div {
+    text-align: center;
+}
+
+img {
+    display: inline-block;
+}
